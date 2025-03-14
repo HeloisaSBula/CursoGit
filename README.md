@@ -1,1 +1,1 @@
-Repositório utilizando para aprender o versionamento de código com Git
+Repositório utilizado para aprender o versionamento de código com Git
